@@ -1,0 +1,583 @@
+﻿aula_id,data,aluno_id,materia,duracao_horas,valor,status,mes,dia_semana,trimestre
+1,2024-05-28,A001,Álgebra Linear,2.0,0.0,Cancelada,2024-05,Terça,2024Q2
+2,2024-06-04,A001,Álgebra Linear,1.5,102.47,Realizada,2024-06,Terça,2024Q2
+3,2024-06-18,A001,Álgebra Linear,2.0,136.62,Realizada,2024-06,Terça,2024Q2
+4,2024-09-21,A002,Cálculo I,1.0,81.76,Realizada,2024-09,Sábado,2024Q3
+5,2024-09-28,A002,Cálculo I,1.0,81.76,Realizada,2024-09,Sábado,2024Q3
+6,2024-10-05,A002,Cálculo I,1.0,82.23,Realizada,2024-10,Sábado,2024Q4
+7,2024-10-12,A002,Cálculo I,1.0,0.0,Cancelada,2024-10,Sábado,2024Q4
+8,2024-10-19,A002,Cálculo I,1.0,82.23,Realizada,2024-10,Sábado,2024Q4
+9,2024-10-26,A002,Cálculo I,1.0,82.23,Realizada,2024-10,Sábado,2024Q4
+10,2024-11-02,A002,Cálculo I,1.0,82.7,Realizada,2024-11,Sábado,2024Q4
+11,2024-11-09,A002,Cálculo I,1.5,124.05,Realizada,2024-11,Sábado,2024Q4
+12,2025-08-18,A003,Matemática Básica,2.0,117.91,Realizada,2025-08,Segunda,2025Q3
+13,2025-08-25,A003,Matemática Básica,1.5,88.44,Realizada,2025-08,Segunda,2025Q3
+14,2025-09-01,A003,Matemática Básica,1.0,59.28,Realizada,2025-09,Segunda,2025Q3
+15,2025-09-08,A003,Matemática Básica,1.5,88.91,Realizada,2025-09,Segunda,2025Q3
+16,2024-03-08,A004,Cálculo II,1.0,84.85,Realizada,2024-03,Sexta,2024Q1
+17,2024-03-15,A004,Cálculo II,1.0,84.85,Realizada,2024-03,Sexta,2024Q1
+18,2024-03-22,A004,Cálculo II,1.5,127.27,Realizada,2024-03,Sexta,2024Q1
+19,2024-03-29,A004,Cálculo II,1.5,127.27,Realizada,2024-03,Sexta,2024Q1
+20,2025-10-11,A005,Cálculo II,2.0,179.2,Realizada,2025-10,Sábado,2025Q4
+21,2025-10-18,A005,Cálculo II,2.0,179.2,Realizada,2025-10,Sábado,2025Q4
+22,2025-10-25,A005,Cálculo II,1.0,89.6,Realizada,2025-10,Sábado,2025Q4
+23,2025-11-01,A005,Cálculo II,1.0,90.08,Realizada,2025-11,Sábado,2025Q4
+24,2025-11-08,A005,Cálculo II,1.0,90.08,Realizada,2025-11,Sábado,2025Q4
+25,2025-08-22,A006,Matemática Básica,1.5,92.54,Realizada,2025-08,Sexta,2025Q3
+26,2025-08-29,A006,Matemática Básica,2.0,123.39,Realizada,2025-08,Sexta,2025Q3
+27,2025-09-05,A006,Matemática Básica,1.0,62.03,Realizada,2025-09,Sexta,2025Q3
+28,2025-09-12,A006,Matemática Básica,2.0,124.06,Realizada,2025-09,Sexta,2025Q3
+29,2025-09-19,A006,Matemática Básica,1.0,0.0,Cancelada,2025-09,Sexta,2025Q3
+30,2025-09-26,A006,Matemática Básica,2.0,124.06,Realizada,2025-09,Sexta,2025Q3
+31,2025-10-03,A006,Matemática Básica,1.0,62.36,Realizada,2025-10,Sexta,2025Q4
+32,2025-10-17,A006,Matemática Básica,2.0,124.72,Realizada,2025-10,Sexta,2025Q4
+33,2025-10-24,A006,Matemática Básica,1.5,93.54,Realizada,2025-10,Sexta,2025Q4
+34,2025-10-31,A006,Matemática Básica,1.0,62.36,Realizada,2025-10,Sexta,2025Q4
+35,2025-11-07,A006,Matemática Básica,1.0,0.0,Falta,2025-11,Sexta,2025Q4
+36,2024-11-12,A007,Cálculo I,1.0,82.61,Realizada,2024-11,Terça,2024Q4
+37,2024-11-19,A007,Cálculo I,1.0,82.61,Realizada,2024-11,Terça,2024Q4
+38,2024-11-26,A007,Cálculo I,1.0,82.61,Realizada,2024-11,Terça,2024Q4
+39,2024-12-24,A007,Cálculo I,2.0,166.17,Realizada,2024-12,Terça,2024Q4
+40,2025-01-07,A007,Cálculo I,1.0,83.55,Realizada,2025-01,Terça,2025Q1
+41,2025-01-14,A007,Cálculo I,1.0,83.55,Realizada,2025-01,Terça,2025Q1
+42,2025-02-04,A007,Cálculo I,1.0,84.02,Realizada,2025-02,Terça,2025Q1
+43,2025-02-11,A007,Cálculo I,2.0,168.05,Realizada,2025-02,Terça,2025Q1
+44,2025-02-18,A007,Cálculo I,1.0,84.02,Realizada,2025-02,Terça,2025Q1
+45,2025-03-04,A007,Cálculo I,1.0,84.49,Realizada,2025-03,Terça,2025Q1
+46,2025-03-11,A007,Cálculo I,2.0,0.0,Cancelada,2025-03,Terça,2025Q1
+47,2025-03-18,A007,Cálculo I,1.0,84.49,Realizada,2025-03,Terça,2025Q1
+48,2025-03-25,A007,Cálculo I,1.0,84.49,Realizada,2025-03,Terça,2025Q1
+49,2025-04-01,A007,Cálculo I,1.0,84.96,Realizada,2025-04,Terça,2025Q2
+50,2025-04-08,A007,Cálculo I,1.0,84.96,Realizada,2025-04,Terça,2025Q2
+51,2025-04-15,A007,Cálculo I,1.0,84.96,Realizada,2025-04,Terça,2025Q2
+52,2025-04-22,A007,Cálculo I,1.5,127.45,Realizada,2025-04,Terça,2025Q2
+53,2025-04-29,A007,Cálculo I,1.0,84.96,Realizada,2025-04,Terça,2025Q2
+54,2025-05-06,A007,Cálculo I,1.0,85.43,Realizada,2025-05,Terça,2025Q2
+55,2025-05-13,A007,Cálculo I,2.0,170.87,Realizada,2025-05,Terça,2025Q2
+56,2025-05-20,A007,Cálculo I,1.0,85.43,Realizada,2025-05,Terça,2025Q2
+57,2025-05-27,A007,Cálculo I,1.0,85.43,Realizada,2025-05,Terça,2025Q2
+58,2025-06-10,A007,Cálculo I,1.0,85.9,Realizada,2025-06,Terça,2025Q2
+59,2025-06-17,A007,Cálculo I,1.5,128.86,Realizada,2025-06,Terça,2025Q2
+60,2025-04-08,A008,Cálculo II,1.0,86.43,Realizada,2025-04,Terça,2025Q2
+61,2025-04-15,A008,Cálculo II,1.0,0.0,Falta,2025-04,Terça,2025Q2
+62,2025-04-22,A008,Cálculo II,1.0,86.43,Realizada,2025-04,Terça,2025Q2
+63,2025-04-29,A008,Cálculo II,1.0,86.43,Realizada,2025-04,Terça,2025Q2
+64,2025-05-06,A008,Cálculo II,1.5,0.0,Falta,2025-05,Terça,2025Q2
+65,2025-05-13,A008,Cálculo II,1.5,130.36,Realizada,2025-05,Terça,2025Q2
+66,2025-05-20,A008,Cálculo II,1.0,86.91,Realizada,2025-05,Terça,2025Q2
+67,2025-05-27,A008,Cálculo II,1.5,130.36,Realizada,2025-05,Terça,2025Q2
+68,2025-06-03,A008,Cálculo II,1.0,87.38,Realizada,2025-06,Terça,2025Q2
+69,2025-06-10,A008,Cálculo II,2.0,174.77,Realizada,2025-06,Terça,2025Q2
+70,2025-06-17,A008,Cálculo II,1.0,0.0,Falta,2025-06,Terça,2025Q2
+71,2025-06-24,A008,Cálculo II,1.0,87.38,Realizada,2025-06,Terça,2025Q2
+72,2025-07-01,A008,Cálculo II,1.0,87.86,Realizada,2025-07,Terça,2025Q3
+73,2025-02-03,A009,Matemática Básica,1.0,65.32,Realizada,2025-02,Segunda,2025Q1
+74,2025-02-10,A009,Matemática Básica,2.0,130.63,Realizada,2025-02,Segunda,2025Q1
+75,2025-02-24,A009,Matemática Básica,1.0,65.32,Realizada,2025-02,Segunda,2025Q1
+76,2025-03-03,A009,Matemática Básica,1.0,0.0,Falta,2025-03,Segunda,2025Q1
+77,2025-03-10,A009,Matemática Básica,1.0,65.68,Realizada,2025-03,Segunda,2025Q1
+78,2025-02-05,A010,Estatística,1.5,119.64,Realizada,2025-02,Quarta,2025Q1
+79,2025-02-12,A010,Estatística,2.0,159.51,Realizada,2025-02,Quarta,2025Q1
+80,2025-02-19,A010,Estatística,1.5,119.64,Realizada,2025-02,Quarta,2025Q1
+81,2025-02-26,A010,Estatística,2.0,159.51,Realizada,2025-02,Quarta,2025Q1
+82,2025-03-05,A010,Estatística,1.0,80.2,Realizada,2025-03,Quarta,2025Q1
+83,2025-03-12,A010,Estatística,2.0,160.41,Realizada,2025-03,Quarta,2025Q1
+84,2025-03-19,A010,Estatística,1.5,120.3,Realizada,2025-03,Quarta,2025Q1
+85,2025-03-26,A010,Estatística,1.5,120.3,Realizada,2025-03,Quarta,2025Q1
+86,2025-04-02,A010,Estatística,1.0,80.65,Realizada,2025-04,Quarta,2025Q2
+87,2025-04-09,A010,Estatística,2.0,161.3,Realizada,2025-04,Quarta,2025Q2
+88,2025-04-16,A010,Estatística,1.0,80.65,Realizada,2025-04,Quarta,2025Q2
+89,2025-04-23,A010,Estatística,1.0,80.65,Realizada,2025-04,Quarta,2025Q2
+90,2025-04-30,A010,Estatística,1.5,0.0,Falta,2025-04,Quarta,2025Q2
+91,2025-05-07,A010,Estatística,1.5,121.64,Realizada,2025-05,Quarta,2025Q2
+92,2025-05-14,A010,Estatística,1.0,81.1,Realizada,2025-05,Quarta,2025Q2
+93,2025-05-21,A010,Estatística,1.5,121.64,Realizada,2025-05,Quarta,2025Q2
+94,2025-05-28,A010,Estatística,1.0,81.1,Realizada,2025-05,Quarta,2025Q2
+95,2025-06-25,A010,Estatística,2.0,163.08,Realizada,2025-06,Quarta,2025Q2
+96,2025-07-23,A010,Estatística,1.5,122.98,Realizada,2025-07,Quarta,2025Q3
+97,2025-08-13,A010,Estatística,1.5,123.65,Realizada,2025-08,Quarta,2025Q3
+98,2025-08-20,A010,Estatística,2.0,164.87,Realizada,2025-08,Quarta,2025Q3
+99,2025-08-27,A010,Estatística,1.5,123.65,Realizada,2025-08,Quarta,2025Q3
+100,2025-09-03,A010,Estatística,1.5,124.32,Realizada,2025-09,Quarta,2025Q3
+101,2025-09-10,A010,Estatística,1.0,82.88,Realizada,2025-09,Quarta,2025Q3
+102,2025-09-17,A010,Estatística,1.0,82.88,Realizada,2025-09,Quarta,2025Q3
+103,2025-09-24,A010,Estatística,1.0,0.0,Cancelada,2025-09,Quarta,2025Q3
+104,2024-03-18,A011,Estatística,1.0,65.08,Realizada,2024-03,Segunda,2024Q1
+105,2024-03-25,A011,Estatística,1.0,65.08,Realizada,2024-03,Segunda,2024Q1
+106,2024-04-01,A011,Estatística,1.5,0.0,Falta,2024-04,Segunda,2024Q2
+107,2024-04-08,A011,Estatística,1.0,65.47,Realizada,2024-04,Segunda,2024Q2
+108,2024-04-15,A011,Estatística,2.0,130.93,Realizada,2024-04,Segunda,2024Q2
+109,2024-04-22,A011,Estatística,2.0,0.0,Falta,2024-04,Segunda,2024Q2
+110,2024-04-29,A011,Estatística,1.0,0.0,Falta,2024-04,Segunda,2024Q2
+111,2024-05-06,A011,Estatística,1.5,98.78,Realizada,2024-05,Segunda,2024Q2
+112,2024-05-13,A011,Estatística,2.0,131.71,Realizada,2024-05,Segunda,2024Q2
+113,2024-05-27,A011,Estatística,1.5,98.78,Realizada,2024-05,Segunda,2024Q2
+114,2024-06-03,A011,Estatística,1.5,99.36,Realizada,2024-06,Segunda,2024Q2
+115,2024-06-10,A011,Estatística,1.0,66.24,Realizada,2024-06,Segunda,2024Q2
+116,2024-06-24,A011,Estatística,2.0,132.49,Realizada,2024-06,Segunda,2024Q2
+117,2024-07-08,A011,Estatística,1.0,66.63,Realizada,2024-07,Segunda,2024Q3
+118,2024-07-22,A011,Estatística,1.0,66.63,Realizada,2024-07,Segunda,2024Q3
+119,2024-07-29,A011,Estatística,1.5,99.95,Realizada,2024-07,Segunda,2024Q3
+120,2024-08-05,A011,Estatística,1.5,100.53,Realizada,2024-08,Segunda,2024Q3
+121,2024-08-12,A011,Estatística,1.0,0.0,Falta,2024-08,Segunda,2024Q3
+122,2024-08-19,A011,Estatística,1.0,0.0,Falta,2024-08,Segunda,2024Q3
+123,2024-08-26,A011,Estatística,1.0,0.0,Falta,2024-08,Segunda,2024Q3
+124,2024-09-02,A011,Estatística,1.0,67.41,Realizada,2024-09,Segunda,2024Q3
+125,2024-09-09,A011,Estatística,1.0,67.41,Realizada,2024-09,Segunda,2024Q3
+126,2025-02-22,A012,Álgebra Linear,1.0,72.38,Realizada,2025-02,Sábado,2025Q1
+127,2025-03-01,A012,Álgebra Linear,1.0,72.79,Realizada,2025-03,Sábado,2025Q1
+128,2025-03-08,A012,Álgebra Linear,1.0,72.79,Realizada,2025-03,Sábado,2025Q1
+129,2025-03-15,A012,Álgebra Linear,1.0,72.79,Realizada,2025-03,Sábado,2025Q1
+130,2025-03-22,A012,Álgebra Linear,1.0,0.0,Falta,2025-03,Sábado,2025Q1
+131,2025-10-31,A013,Álgebra Linear,1.0,85.7,Realizada,2025-10,Sexta,2025Q4
+132,2025-11-07,A013,Álgebra Linear,1.0,86.16,Realizada,2025-11,Sexta,2025Q4
+133,2025-11-14,A013,Álgebra Linear,2.0,172.32,Realizada,2025-11,Sexta,2025Q4
+134,2025-11-21,A013,Álgebra Linear,2.0,172.32,Realizada,2025-11,Sexta,2025Q4
+135,2025-11-28,A013,Álgebra Linear,1.5,129.24,Realizada,2025-11,Sexta,2025Q4
+136,2025-12-12,A013,Álgebra Linear,1.0,86.62,Realizada,2025-12,Sexta,2025Q4
+137,2026-01-02,A013,Álgebra Linear,1.5,130.62,Realizada,2026-01,Sexta,2026Q1
+138,2026-02-06,A013,Álgebra Linear,2.0,175.08,Realizada,2026-02,Sexta,2026Q1
+139,2026-02-13,A013,Álgebra Linear,2.0,175.08,Realizada,2026-02,Sexta,2026Q1
+140,2026-02-20,A013,Álgebra Linear,1.0,87.54,Realizada,2026-02,Sexta,2026Q1
+141,2026-02-27,A013,Álgebra Linear,1.5,131.31,Realizada,2026-02,Sexta,2026Q1
+142,2026-03-06,A013,Álgebra Linear,1.0,88.0,Realizada,2026-03,Sexta,2026Q1
+143,2026-03-13,A013,Álgebra Linear,1.0,88.0,Realizada,2026-03,Sexta,2026Q1
+144,2026-03-20,A013,Álgebra Linear,1.0,88.0,Realizada,2026-03,Sexta,2026Q1
+145,2026-03-27,A013,Álgebra Linear,1.0,88.0,Realizada,2026-03,Sexta,2026Q1
+146,2026-04-03,A013,Álgebra Linear,1.0,88.46,Realizada,2026-04,Sexta,2026Q2
+147,2026-04-10,A013,Álgebra Linear,1.5,132.69,Realizada,2026-04,Sexta,2026Q2
+148,2026-04-17,A013,Álgebra Linear,1.5,132.69,Realizada,2026-04,Sexta,2026Q2
+149,2026-04-24,A013,Álgebra Linear,1.0,88.46,Realizada,2026-04,Sexta,2026Q2
+150,2026-05-01,A013,Álgebra Linear,1.0,88.92,Realizada,2026-05,Sexta,2026Q2
+151,2026-05-08,A013,Álgebra Linear,1.5,133.37,Realizada,2026-05,Sexta,2026Q2
+152,2026-05-15,A013,Álgebra Linear,2.0,177.83,Realizada,2026-05,Sexta,2026Q2
+153,2026-05-22,A013,Álgebra Linear,1.0,88.92,Realizada,2026-05,Sexta,2026Q2
+154,2026-05-29,A013,Álgebra Linear,1.0,88.92,Realizada,2026-05,Sexta,2026Q2
+155,2026-06-05,A013,Álgebra Linear,1.0,89.38,Realizada,2026-06,Sexta,2026Q2
+156,2026-06-12,A013,Álgebra Linear,1.0,89.38,Realizada,2026-06,Sexta,2026Q2
+157,2026-06-19,A013,Álgebra Linear,2.0,178.75,Realizada,2026-06,Sexta,2026Q2
+158,2024-08-31,A014,Cálculo I,1.0,84.89,Realizada,2024-08,Sábado,2024Q3
+159,2024-09-07,A014,Cálculo I,1.0,85.38,Realizada,2024-09,Sábado,2024Q3
+160,2024-09-14,A014,Cálculo I,1.0,0.0,Falta,2024-09,Sábado,2024Q3
+161,2024-09-21,A014,Cálculo I,1.5,128.07,Realizada,2024-09,Sábado,2024Q3
+162,2024-09-28,A014,Cálculo I,1.0,0.0,Falta,2024-09,Sábado,2024Q3
+163,2024-10-05,A014,Cálculo I,1.0,85.87,Realizada,2024-10,Sábado,2024Q4
+164,2024-10-19,A014,Cálculo I,1.0,85.87,Realizada,2024-10,Sábado,2024Q4
+165,2024-10-26,A014,Cálculo I,1.0,85.87,Realizada,2024-10,Sábado,2024Q4
+166,2024-11-02,A014,Cálculo I,1.0,86.36,Realizada,2024-11,Sábado,2024Q4
+167,2024-11-09,A014,Cálculo I,1.0,86.36,Realizada,2024-11,Sábado,2024Q4
+168,2024-11-16,A014,Cálculo I,2.0,172.73,Realizada,2024-11,Sábado,2024Q4
+169,2024-11-23,A014,Cálculo I,2.0,172.73,Realizada,2024-11,Sábado,2024Q4
+170,2024-11-30,A014,Cálculo I,1.5,129.55,Realizada,2024-11,Sábado,2024Q4
+171,2025-01-11,A014,Cálculo I,1.0,87.35,Realizada,2025-01,Sábado,2025Q1
+172,2025-01-25,A014,Cálculo I,1.0,87.35,Realizada,2025-01,Sábado,2025Q1
+173,2025-02-01,A014,Cálculo I,1.0,87.84,Realizada,2025-02,Sábado,2025Q1
+174,2025-02-08,A014,Cálculo I,2.0,175.68,Realizada,2025-02,Sábado,2025Q1
+175,2024-09-24,A015,Cálculo I,1.0,82.73,Realizada,2024-09,Terça,2024Q3
+176,2024-10-01,A015,Cálculo I,1.0,83.21,Realizada,2024-10,Terça,2024Q4
+177,2024-10-08,A015,Cálculo I,2.0,166.42,Realizada,2024-10,Terça,2024Q4
+178,2024-10-15,A015,Cálculo I,1.5,124.82,Realizada,2024-10,Terça,2024Q4
+179,2024-10-22,A015,Cálculo I,1.0,83.21,Realizada,2024-10,Terça,2024Q4
+180,2024-10-29,A015,Cálculo I,1.0,83.21,Realizada,2024-10,Terça,2024Q4
+181,2024-11-05,A015,Cálculo I,2.0,167.38,Realizada,2024-11,Terça,2024Q4
+182,2024-11-12,A015,Cálculo I,1.0,83.69,Realizada,2024-11,Terça,2024Q4
+183,2024-11-19,A015,Cálculo I,1.0,83.69,Realizada,2024-11,Terça,2024Q4
+184,2024-11-26,A015,Cálculo I,2.0,167.38,Realizada,2024-11,Terça,2024Q4
+185,2025-01-14,A015,Cálculo I,2.0,169.28,Realizada,2025-01,Terça,2025Q1
+186,2025-01-28,A015,Cálculo I,1.0,84.64,Realizada,2025-01,Terça,2025Q1
+187,2025-02-04,A015,Cálculo I,1.0,85.12,Realizada,2025-02,Terça,2025Q1
+188,2025-02-11,A015,Cálculo I,1.0,85.12,Realizada,2025-02,Terça,2025Q1
+189,2025-02-18,A015,Cálculo I,1.5,127.68,Realizada,2025-02,Terça,2025Q1
+190,2025-03-04,A015,Cálculo I,1.0,85.59,Realizada,2025-03,Terça,2025Q1
+191,2025-03-11,A015,Cálculo I,1.0,85.59,Realizada,2025-03,Terça,2025Q1
+192,2025-03-18,A015,Cálculo I,1.5,128.39,Realizada,2025-03,Terça,2025Q1
+193,2024-05-18,A016,Matemática Básica,1.0,63.32,Realizada,2024-05,Sábado,2024Q2
+194,2024-05-25,A016,Matemática Básica,1.5,94.98,Realizada,2024-05,Sábado,2024Q2
+195,2024-06-15,A016,Matemática Básica,1.5,95.54,Realizada,2024-06,Sábado,2024Q2
+196,2024-06-22,A016,Matemática Básica,1.0,63.69,Realizada,2024-06,Sábado,2024Q2
+197,2024-06-29,A016,Matemática Básica,1.5,95.54,Realizada,2024-06,Sábado,2024Q2
+198,2024-07-13,A016,Matemática Básica,1.0,64.07,Realizada,2024-07,Sábado,2024Q3
+199,2024-08-03,A016,Matemática Básica,2.0,128.88,Realizada,2024-08,Sábado,2024Q3
+200,2024-08-10,A016,Matemática Básica,1.0,64.44,Realizada,2024-08,Sábado,2024Q3
+201,2025-02-11,A017,Álgebra Linear,1.0,0.0,Cancelada,2025-02,Terça,2025Q1
+202,2025-02-18,A017,Álgebra Linear,1.0,81.49,Realizada,2025-02,Terça,2025Q1
+203,2025-02-25,A017,Álgebra Linear,2.0,162.99,Realizada,2025-02,Terça,2025Q1
+204,2025-03-04,A017,Álgebra Linear,1.5,122.92,Realizada,2025-03,Terça,2025Q1
+205,2025-03-18,A017,Álgebra Linear,1.5,122.92,Realizada,2025-03,Terça,2025Q1
+206,2025-03-25,A017,Álgebra Linear,1.0,81.95,Realizada,2025-03,Terça,2025Q1
+207,2025-04-01,A017,Álgebra Linear,1.5,123.61,Realizada,2025-04,Terça,2025Q2
+208,2025-04-08,A017,Álgebra Linear,1.0,82.41,Realizada,2025-04,Terça,2025Q2
+209,2024-11-02,A018,Geometria Analítica,2.0,161.07,Realizada,2024-11,Sábado,2024Q4
+210,2024-11-09,A018,Geometria Analítica,1.0,80.54,Realizada,2024-11,Sábado,2024Q4
+211,2024-11-16,A018,Geometria Analítica,1.0,80.54,Realizada,2024-11,Sábado,2024Q4
+212,2024-11-23,A018,Geometria Analítica,1.5,120.8,Realizada,2024-11,Sábado,2024Q4
+213,2024-11-30,A018,Geometria Analítica,1.0,80.54,Realizada,2024-11,Sábado,2024Q4
+214,2024-12-14,A018,Geometria Analítica,1.0,80.99,Realizada,2024-12,Sábado,2024Q4
+215,2025-02-01,A018,Geometria Analítica,1.0,81.91,Realizada,2025-02,Sábado,2025Q1
+216,2025-02-08,A018,Geometria Analítica,1.0,81.91,Realizada,2025-02,Sábado,2025Q1
+217,2025-03-01,A018,Geometria Analítica,1.5,123.55,Realizada,2025-03,Sábado,2025Q1
+218,2025-03-08,A018,Geometria Analítica,1.0,82.37,Realizada,2025-03,Sábado,2025Q1
+219,2025-03-15,A018,Geometria Analítica,1.0,82.37,Realizada,2025-03,Sábado,2025Q1
+220,2025-03-22,A018,Geometria Analítica,1.0,82.37,Realizada,2025-03,Sábado,2025Q1
+221,2025-03-29,A018,Geometria Analítica,2.0,164.74,Realizada,2025-03,Sábado,2025Q1
+222,2025-04-05,A018,Geometria Analítica,1.5,124.24,Realizada,2025-04,Sábado,2025Q2
+223,2025-04-12,A018,Geometria Analítica,1.0,0.0,Falta,2025-04,Sábado,2025Q2
+224,2025-04-19,A018,Geometria Analítica,1.0,82.83,Realizada,2025-04,Sábado,2025Q2
+225,2024-04-19,A019,Cálculo II,1.0,0.0,Cancelada,2024-04,Sexta,2024Q2
+226,2024-04-26,A019,Cálculo II,1.0,91.02,Realizada,2024-04,Sexta,2024Q2
+227,2024-05-03,A019,Cálculo II,1.0,91.56,Realizada,2024-05,Sexta,2024Q2
+228,2024-05-10,A019,Cálculo II,1.0,91.56,Realizada,2024-05,Sexta,2024Q2
+229,2024-05-17,A019,Cálculo II,1.0,91.56,Realizada,2024-05,Sexta,2024Q2
+230,2024-05-24,A019,Cálculo II,1.5,0.0,Cancelada,2024-05,Sexta,2024Q2
+231,2024-05-31,A019,Cálculo II,2.0,183.12,Realizada,2024-05,Sexta,2024Q2
+232,2024-06-07,A019,Cálculo II,1.0,92.1,Realizada,2024-06,Sexta,2024Q2
+233,2024-06-14,A019,Cálculo II,1.5,138.15,Realizada,2024-06,Sexta,2024Q2
+234,2024-06-28,A019,Cálculo II,1.5,138.15,Realizada,2024-06,Sexta,2024Q2
+235,2024-08-02,A019,Cálculo II,1.0,93.18,Realizada,2024-08,Sexta,2024Q3
+236,2024-08-09,A019,Cálculo II,1.5,139.77,Realizada,2024-08,Sexta,2024Q3
+237,2024-10-09,A020,Matemática Básica,1.0,54.08,Realizada,2024-10,Quarta,2024Q4
+238,2024-10-23,A020,Matemática Básica,1.5,81.12,Realizada,2024-10,Quarta,2024Q4
+239,2024-10-30,A020,Matemática Básica,1.0,54.08,Realizada,2024-10,Quarta,2024Q4
+240,2024-11-06,A020,Matemática Básica,1.0,54.39,Realizada,2024-11,Quarta,2024Q4
+241,2024-11-13,A020,Matemática Básica,1.0,54.39,Realizada,2024-11,Quarta,2024Q4
+242,2024-11-20,A020,Matemática Básica,1.0,54.39,Realizada,2024-11,Quarta,2024Q4
+243,2024-11-27,A020,Matemática Básica,1.0,54.39,Realizada,2024-11,Quarta,2024Q4
+244,2025-08-25,A021,Álgebra Linear,1.5,138.06,Realizada,2025-08,Segunda,2025Q3
+245,2025-09-01,A021,Álgebra Linear,1.0,92.54,Realizada,2025-09,Segunda,2025Q3
+246,2025-09-08,A021,Álgebra Linear,1.5,138.81,Realizada,2025-09,Segunda,2025Q3
+247,2025-09-15,A021,Álgebra Linear,2.0,0.0,Falta,2025-09,Segunda,2025Q3
+248,2025-09-22,A021,Álgebra Linear,2.0,185.08,Realizada,2025-09,Segunda,2025Q3
+249,2025-09-29,A021,Álgebra Linear,1.0,92.54,Realizada,2025-09,Segunda,2025Q3
+250,2025-10-06,A021,Álgebra Linear,1.0,93.04,Realizada,2025-10,Segunda,2025Q4
+251,2025-10-13,A021,Álgebra Linear,1.0,93.04,Realizada,2025-10,Segunda,2025Q4
+252,2025-10-20,A021,Álgebra Linear,1.0,0.0,Falta,2025-10,Segunda,2025Q4
+253,2024-09-26,A022,Álgebra Linear,2.0,171.3,Realizada,2024-09,Quinta,2024Q3
+254,2024-10-03,A022,Álgebra Linear,1.0,86.15,Realizada,2024-10,Quinta,2024Q4
+255,2024-10-10,A022,Álgebra Linear,1.0,86.15,Realizada,2024-10,Quinta,2024Q4
+256,2024-10-17,A022,Álgebra Linear,2.0,172.29,Realizada,2024-10,Quinta,2024Q4
+257,2024-10-24,A022,Álgebra Linear,1.0,86.15,Realizada,2024-10,Quinta,2024Q4
+258,2024-10-31,A022,Álgebra Linear,1.0,86.15,Realizada,2024-10,Quinta,2024Q4
+259,2024-11-07,A022,Álgebra Linear,1.0,86.64,Realizada,2024-11,Quinta,2024Q4
+260,2024-11-14,A022,Álgebra Linear,1.0,86.64,Realizada,2024-11,Quinta,2024Q4
+261,2024-11-21,A022,Álgebra Linear,1.0,86.64,Realizada,2024-11,Quinta,2024Q4
+262,2024-11-28,A022,Álgebra Linear,1.0,86.64,Realizada,2024-11,Quinta,2024Q4
+263,2024-12-26,A022,Álgebra Linear,1.0,87.13,Realizada,2024-12,Quinta,2024Q4
+264,2025-02-06,A022,Álgebra Linear,1.5,132.18,Realizada,2025-02,Quinta,2025Q1
+265,2025-02-13,A022,Álgebra Linear,2.0,176.24,Realizada,2025-02,Quinta,2025Q1
+266,2025-02-20,A022,Álgebra Linear,1.0,88.12,Realizada,2025-02,Quinta,2025Q1
+267,2025-02-27,A022,Álgebra Linear,1.5,132.18,Realizada,2025-02,Quinta,2025Q1
+268,2025-03-13,A022,Álgebra Linear,1.0,0.0,Cancelada,2025-03,Quinta,2025Q1
+269,2025-03-20,A022,Álgebra Linear,1.0,88.61,Realizada,2025-03,Quinta,2025Q1
+270,2025-03-27,A022,Álgebra Linear,1.0,88.61,Realizada,2025-03,Quinta,2025Q1
+271,2025-04-03,A022,Álgebra Linear,1.0,89.1,Realizada,2025-04,Quinta,2025Q2
+272,2025-04-10,A022,Álgebra Linear,2.0,178.21,Realizada,2025-04,Quinta,2025Q2
+273,2025-04-24,A022,Álgebra Linear,1.0,89.1,Realizada,2025-04,Quinta,2025Q2
+274,2025-05-01,A022,Álgebra Linear,2.0,179.2,Realizada,2025-05,Quinta,2025Q2
+275,2025-05-08,A022,Álgebra Linear,1.0,89.6,Realizada,2025-05,Quinta,2025Q2
+276,2025-05-15,A022,Álgebra Linear,2.0,179.2,Realizada,2025-05,Quinta,2025Q2
+277,2024-11-02,A023,Estatística,1.0,63.3,Realizada,2024-11,Sábado,2024Q4
+278,2024-11-09,A023,Estatística,1.0,63.3,Realizada,2024-11,Sábado,2024Q4
+279,2024-11-16,A023,Estatística,1.0,0.0,Falta,2024-11,Sábado,2024Q4
+280,2024-11-23,A023,Estatística,2.0,126.61,Realizada,2024-11,Sábado,2024Q4
+281,2024-11-30,A023,Estatística,1.0,63.3,Realizada,2024-11,Sábado,2024Q4
+282,2024-12-26,A024,Matemática Básica,1.5,0.0,Cancelada,2024-12,Quinta,2024Q4
+283,2025-01-16,A024,Matemática Básica,2.0,110.65,Realizada,2025-01,Quinta,2025Q1
+284,2025-01-23,A024,Matemática Básica,2.0,110.65,Realizada,2025-01,Quinta,2025Q1
+285,2025-02-06,A024,Matemática Básica,1.5,0.0,Falta,2025-02,Quinta,2025Q1
+286,2025-05-20,A025,Cálculo II,1.5,136.57,Realizada,2025-05,Terça,2025Q2
+287,2025-05-27,A025,Cálculo II,2.0,0.0,Cancelada,2025-05,Terça,2025Q2
+288,2025-06-03,A025,Cálculo II,2.0,183.1,Realizada,2025-06,Terça,2025Q2
+289,2025-06-10,A025,Cálculo II,1.0,91.55,Realizada,2025-06,Terça,2025Q2
+290,2025-06-17,A025,Cálculo II,1.0,91.55,Realizada,2025-06,Terça,2025Q2
+291,2025-06-24,A025,Cálculo II,1.0,91.55,Realizada,2025-06,Terça,2025Q2
+292,2025-07-08,A025,Cálculo II,2.0,184.1,Realizada,2025-07,Terça,2025Q3
+293,2025-08-29,A026,Geometria Analítica,1.0,82.46,Realizada,2025-08,Sexta,2025Q3
+294,2025-09-05,A026,Geometria Analítica,1.5,124.36,Realizada,2025-09,Sexta,2025Q3
+295,2025-09-12,A026,Geometria Analítica,1.5,0.0,Cancelada,2025-09,Sexta,2025Q3
+296,2025-09-19,A026,Geometria Analítica,1.0,82.9,Realizada,2025-09,Sexta,2025Q3
+297,2025-09-26,A026,Geometria Analítica,1.0,82.9,Realizada,2025-09,Sexta,2025Q3
+298,2025-10-03,A026,Geometria Analítica,1.0,0.0,Cancelada,2025-10,Sexta,2025Q4
+299,2025-10-10,A026,Geometria Analítica,1.0,83.35,Realizada,2025-10,Sexta,2025Q4
+300,2025-10-17,A026,Geometria Analítica,2.0,166.7,Realizada,2025-10,Sexta,2025Q4
+301,2025-10-24,A026,Geometria Analítica,1.5,125.03,Realizada,2025-10,Sexta,2025Q4
+302,2025-10-31,A026,Geometria Analítica,1.5,125.03,Realizada,2025-10,Sexta,2025Q4
+303,2025-11-07,A026,Geometria Analítica,1.0,83.8,Realizada,2025-11,Sexta,2025Q4
+304,2025-11-14,A026,Geometria Analítica,2.0,167.59,Realizada,2025-11,Sexta,2025Q4
+305,2025-11-21,A026,Geometria Analítica,1.5,125.7,Realizada,2025-11,Sexta,2025Q4
+306,2025-11-28,A026,Geometria Analítica,2.0,0.0,Cancelada,2025-11,Sexta,2025Q4
+307,2025-04-23,A027,Matemática Básica,2.0,135.89,Realizada,2025-04,Quarta,2025Q2
+308,2025-04-30,A027,Matemática Básica,1.0,67.95,Realizada,2025-04,Quarta,2025Q2
+309,2025-05-07,A027,Matemática Básica,1.0,68.32,Realizada,2025-05,Quarta,2025Q2
+310,2025-05-21,A027,Matemática Básica,1.0,68.32,Realizada,2025-05,Quarta,2025Q2
+311,2025-05-28,A027,Matemática Básica,1.0,68.32,Realizada,2025-05,Quarta,2025Q2
+312,2025-06-04,A027,Matemática Básica,1.0,68.7,Realizada,2025-06,Quarta,2025Q2
+313,2025-06-11,A027,Matemática Básica,1.5,103.05,Realizada,2025-06,Quarta,2025Q2
+314,2025-06-18,A027,Matemática Básica,1.0,68.7,Realizada,2025-06,Quarta,2025Q2
+315,2025-06-25,A027,Matemática Básica,2.0,137.39,Realizada,2025-06,Quarta,2025Q2
+316,2025-07-16,A027,Matemática Básica,1.0,69.07,Realizada,2025-07,Quarta,2025Q3
+317,2025-08-06,A027,Matemática Básica,1.5,104.17,Realizada,2025-08,Quarta,2025Q3
+318,2025-08-13,A027,Matemática Básica,2.0,138.9,Realizada,2025-08,Quarta,2025Q3
+319,2025-08-20,A027,Matemática Básica,1.0,69.45,Realizada,2025-08,Quarta,2025Q3
+320,2025-08-27,A027,Matemática Básica,2.0,138.9,Realizada,2025-08,Quarta,2025Q3
+321,2025-09-03,A027,Matemática Básica,1.5,0.0,Falta,2025-09,Quarta,2025Q3
+322,2025-09-17,A027,Matemática Básica,1.0,69.83,Realizada,2025-09,Quarta,2025Q3
+323,2025-09-24,A027,Matemática Básica,1.0,69.83,Realizada,2025-09,Quarta,2025Q3
+324,2025-10-01,A027,Matemática Básica,1.5,0.0,Falta,2025-10,Quarta,2025Q4
+325,2025-10-08,A027,Matemática Básica,1.0,70.2,Realizada,2025-10,Quarta,2025Q4
+326,2025-10-15,A027,Matemática Básica,1.0,70.2,Realizada,2025-10,Quarta,2025Q4
+327,2025-10-22,A027,Matemática Básica,1.0,70.2,Realizada,2025-10,Quarta,2025Q4
+328,2025-10-29,A027,Matemática Básica,1.0,70.2,Realizada,2025-10,Quarta,2025Q4
+329,2025-11-05,A027,Matemática Básica,2.0,141.16,Realizada,2025-11,Quarta,2025Q4
+330,2025-11-12,A027,Matemática Básica,1.0,70.58,Realizada,2025-11,Quarta,2025Q4
+331,2025-11-19,A027,Matemática Básica,1.0,0.0,Falta,2025-11,Quarta,2025Q4
+332,2025-11-26,A027,Matemática Básica,1.5,105.87,Realizada,2025-11,Quarta,2025Q4
+333,2024-09-13,A028,Cálculo II,2.0,159.97,Realizada,2024-09,Sexta,2024Q3
+334,2024-09-20,A028,Cálculo II,1.0,0.0,Cancelada,2024-09,Sexta,2024Q3
+335,2024-09-27,A028,Cálculo II,1.0,79.98,Realizada,2024-09,Sexta,2024Q3
+336,2024-10-04,A028,Cálculo II,2.0,160.89,Realizada,2024-10,Sexta,2024Q4
+337,2024-10-11,A028,Cálculo II,1.0,80.44,Realizada,2024-10,Sexta,2024Q4
+338,2024-10-18,A028,Cálculo II,1.0,80.44,Realizada,2024-10,Sexta,2024Q4
+339,2024-10-25,A028,Cálculo II,1.0,80.44,Realizada,2024-10,Sexta,2024Q4
+340,2024-11-01,A028,Cálculo II,1.0,80.91,Realizada,2024-11,Sexta,2024Q4
+341,2024-11-08,A028,Cálculo II,1.5,121.36,Realizada,2024-11,Sexta,2024Q4
+342,2024-11-15,A028,Cálculo II,2.0,161.81,Realizada,2024-11,Sexta,2024Q4
+343,2024-11-22,A028,Cálculo II,2.0,161.81,Realizada,2024-11,Sexta,2024Q4
+344,2024-11-29,A028,Cálculo II,1.0,80.91,Realizada,2024-11,Sexta,2024Q4
+345,2024-12-20,A028,Cálculo II,1.5,0.0,Cancelada,2024-12,Sexta,2024Q4
+346,2025-01-24,A028,Cálculo II,1.0,81.83,Realizada,2025-01,Sexta,2025Q1
+347,2025-01-31,A028,Cálculo II,1.0,81.83,Realizada,2025-01,Sexta,2025Q1
+348,2025-02-07,A028,Cálculo II,1.0,82.29,Realizada,2025-02,Sexta,2025Q1
+349,2025-02-14,A028,Cálculo II,1.5,123.43,Realizada,2025-02,Sexta,2025Q1
+350,2025-02-21,A028,Cálculo II,1.0,82.29,Realizada,2025-02,Sexta,2025Q1
+351,2025-02-28,A028,Cálculo II,1.0,82.29,Realizada,2025-02,Sexta,2025Q1
+352,2025-03-07,A028,Cálculo II,1.0,82.75,Realizada,2025-03,Sexta,2025Q1
+353,2025-03-21,A028,Cálculo II,1.0,82.75,Realizada,2025-03,Sexta,2025Q1
+354,2025-04-04,A028,Cálculo II,1.0,83.21,Realizada,2025-04,Sexta,2025Q2
+355,2025-04-11,A028,Cálculo II,1.5,124.81,Realizada,2025-04,Sexta,2025Q2
+356,2025-04-18,A028,Cálculo II,1.0,83.21,Realizada,2025-04,Sexta,2025Q2
+357,2025-04-25,A028,Cálculo II,1.5,124.81,Realizada,2025-04,Sexta,2025Q2
+358,2025-05-02,A028,Cálculo II,1.0,83.67,Realizada,2025-05,Sexta,2025Q2
+359,2025-05-09,A028,Cálculo II,1.0,83.67,Realizada,2025-05,Sexta,2025Q2
+360,2025-05-16,A028,Cálculo II,1.5,125.5,Realizada,2025-05,Sexta,2025Q2
+361,2025-05-23,A028,Cálculo II,2.0,167.34,Realizada,2025-05,Sexta,2025Q2
+362,2025-06-06,A028,Cálculo II,1.0,84.13,Realizada,2025-06,Sexta,2025Q2
+363,2025-06-20,A028,Cálculo II,1.5,126.19,Realizada,2025-06,Sexta,2025Q2
+364,2025-06-27,A028,Cálculo II,1.0,84.13,Realizada,2025-06,Sexta,2025Q2
+365,2025-08-01,A028,Cálculo II,2.0,170.1,Realizada,2025-08,Sexta,2025Q3
+366,2025-08-08,A028,Cálculo II,2.0,170.1,Realizada,2025-08,Sexta,2025Q3
+367,2025-08-15,A028,Cálculo II,1.0,85.05,Realizada,2025-08,Sexta,2025Q3
+368,2025-08-29,A028,Cálculo II,1.0,85.05,Realizada,2025-08,Sexta,2025Q3
+369,2025-09-05,A028,Cálculo II,1.0,85.51,Realizada,2025-09,Sexta,2025Q3
+370,2025-09-12,A028,Cálculo II,2.0,171.02,Realizada,2025-09,Sexta,2025Q3
+371,2025-09-19,A028,Cálculo II,2.0,171.02,Realizada,2025-09,Sexta,2025Q3
+372,2025-09-26,A028,Cálculo II,2.0,171.02,Realizada,2025-09,Sexta,2025Q3
+373,2025-10-03,A028,Cálculo II,1.0,85.97,Realizada,2025-10,Sexta,2025Q4
+374,2025-10-10,A028,Cálculo II,2.0,171.94,Realizada,2025-10,Sexta,2025Q4
+375,2025-10-17,A028,Cálculo II,1.5,128.96,Realizada,2025-10,Sexta,2025Q4
+376,2025-10-24,A028,Cálculo II,1.0,85.97,Realizada,2025-10,Sexta,2025Q4
+377,2025-06-23,A029,Cálculo I,1.0,90.1,Realizada,2025-06,Segunda,2025Q2
+378,2025-06-30,A029,Cálculo I,1.5,135.15,Realizada,2025-06,Segunda,2025Q2
+379,2025-07-14,A029,Cálculo I,2.0,181.19,Realizada,2025-07,Segunda,2025Q3
+380,2024-08-01,A030,Geometria Analítica,1.0,82.56,Realizada,2024-08,Quinta,2024Q3
+381,2024-08-15,A030,Geometria Analítica,1.5,123.84,Realizada,2024-08,Quinta,2024Q3
+382,2024-08-29,A030,Geometria Analítica,2.0,0.0,Cancelada,2024-08,Quinta,2024Q3
+383,2024-09-05,A030,Geometria Analítica,1.0,83.04,Realizada,2024-09,Quinta,2024Q3
+384,2024-09-12,A030,Geometria Analítica,1.0,83.04,Realizada,2024-09,Quinta,2024Q3
+385,2024-09-19,A030,Geometria Analítica,1.0,0.0,Cancelada,2024-09,Quinta,2024Q3
+386,2024-09-26,A030,Geometria Analítica,1.0,83.04,Realizada,2024-09,Quinta,2024Q3
+387,2024-10-03,A030,Geometria Analítica,1.0,83.52,Realizada,2024-10,Quinta,2024Q4
+388,2024-10-10,A030,Geometria Analítica,1.0,83.52,Realizada,2024-10,Quinta,2024Q4
+389,2024-10-17,A030,Geometria Analítica,1.0,83.52,Realizada,2024-10,Quinta,2024Q4
+390,2024-10-24,A030,Geometria Analítica,1.0,83.52,Realizada,2024-10,Quinta,2024Q4
+391,2024-10-31,A030,Geometria Analítica,1.5,125.27,Realizada,2024-10,Quinta,2024Q4
+392,2025-10-03,A031,Matemática Básica,1.5,101.54,Realizada,2025-10,Sexta,2025Q4
+393,2025-10-10,A031,Matemática Básica,1.0,67.69,Realizada,2025-10,Sexta,2025Q4
+394,2025-10-17,A031,Matemática Básica,2.0,135.39,Realizada,2025-10,Sexta,2025Q4
+395,2025-10-24,A031,Matemática Básica,1.5,101.54,Realizada,2025-10,Sexta,2025Q4
+396,2025-10-31,A031,Matemática Básica,1.0,67.69,Realizada,2025-10,Sexta,2025Q4
+397,2025-05-26,A032,Estatística,2.0,136.12,Realizada,2025-05,Segunda,2025Q2
+398,2025-06-02,A032,Estatística,1.5,0.0,Falta,2025-06,Segunda,2025Q2
+399,2025-06-09,A032,Estatística,2.0,0.0,Falta,2025-06,Segunda,2025Q2
+400,2025-06-16,A032,Estatística,1.0,68.43,Realizada,2025-06,Segunda,2025Q2
+401,2025-06-23,A032,Estatística,1.0,68.43,Realizada,2025-06,Segunda,2025Q2
+402,2025-06-30,A032,Estatística,1.0,0.0,Cancelada,2025-06,Segunda,2025Q2
+403,2025-08-04,A032,Estatística,1.0,69.18,Realizada,2025-08,Segunda,2025Q3
+404,2025-08-11,A032,Estatística,1.5,103.78,Realizada,2025-08,Segunda,2025Q3
+405,2025-08-25,A032,Estatística,1.0,0.0,Falta,2025-08,Segunda,2025Q3
+406,2025-09-01,A032,Estatística,1.0,69.56,Realizada,2025-09,Segunda,2025Q3
+407,2025-09-08,A032,Estatística,1.0,69.56,Realizada,2025-09,Segunda,2025Q3
+408,2025-09-15,A032,Estatística,1.0,69.56,Realizada,2025-09,Segunda,2025Q3
+409,2025-09-22,A032,Estatística,1.5,0.0,Cancelada,2025-09,Segunda,2025Q3
+410,2024-05-29,A033,Estatística,1.0,81.05,Realizada,2024-05,Quarta,2024Q2
+411,2024-06-05,A033,Estatística,1.5,122.3,Realizada,2024-06,Quarta,2024Q2
+412,2024-06-12,A033,Estatística,1.0,81.53,Realizada,2024-06,Quarta,2024Q2
+413,2024-06-26,A033,Estatística,1.5,122.3,Realizada,2024-06,Quarta,2024Q2
+414,2024-07-31,A033,Estatística,1.0,82.01,Realizada,2024-07,Quarta,2024Q3
+415,2024-08-14,A033,Estatística,1.0,82.49,Realizada,2024-08,Quarta,2024Q3
+416,2024-08-21,A033,Estatística,1.5,123.73,Realizada,2024-08,Quarta,2024Q3
+417,2024-09-04,A033,Estatística,1.5,124.45,Realizada,2024-09,Quarta,2024Q3
+418,2024-09-11,A033,Estatística,2.0,165.93,Realizada,2024-09,Quarta,2024Q3
+419,2024-09-18,A033,Estatística,1.5,0.0,Cancelada,2024-09,Quarta,2024Q3
+420,2024-09-25,A033,Estatística,1.0,82.96,Realizada,2024-09,Quarta,2024Q3
+421,2024-10-02,A033,Estatística,1.0,83.44,Realizada,2024-10,Quarta,2024Q4
+422,2024-10-09,A033,Estatística,1.5,125.16,Realizada,2024-10,Quarta,2024Q4
+423,2024-10-16,A033,Estatística,1.5,125.16,Realizada,2024-10,Quarta,2024Q4
+424,2024-10-23,A033,Estatística,1.0,0.0,Falta,2024-10,Quarta,2024Q4
+425,2024-10-30,A033,Estatística,1.0,83.44,Realizada,2024-10,Quarta,2024Q4
+426,2024-11-06,A033,Estatística,1.0,83.92,Realizada,2024-11,Quarta,2024Q4
+427,2024-11-13,A033,Estatística,1.0,83.92,Realizada,2024-11,Quarta,2024Q4
+428,2025-01-28,A034,Matemática Básica,1.0,0.0,Cancelada,2025-01,Terça,2025Q1
+429,2025-02-04,A034,Matemática Básica,1.0,55.89,Realizada,2025-02,Terça,2025Q1
+430,2025-02-11,A034,Matemática Básica,1.0,55.89,Realizada,2025-02,Terça,2025Q1
+431,2025-02-18,A034,Matemática Básica,2.0,111.79,Realizada,2025-02,Terça,2025Q1
+432,2025-02-25,A034,Matemática Básica,1.0,55.89,Realizada,2025-02,Terça,2025Q1
+433,2025-03-04,A034,Matemática Básica,1.0,56.21,Realizada,2025-03,Terça,2025Q1
+434,2025-03-11,A034,Matemática Básica,2.0,112.41,Realizada,2025-03,Terça,2025Q1
+435,2025-05-10,A035,Geometria Analítica,1.0,73.84,Realizada,2025-05,Sábado,2025Q2
+436,2025-05-17,A035,Geometria Analítica,2.0,147.67,Realizada,2025-05,Sábado,2025Q2
+437,2025-05-24,A035,Geometria Analítica,1.5,110.75,Realizada,2025-05,Sábado,2025Q2
+438,2025-05-31,A035,Geometria Analítica,1.0,73.84,Realizada,2025-05,Sábado,2025Q2
+439,2025-06-07,A035,Geometria Analítica,1.5,111.36,Realizada,2025-06,Sábado,2025Q2
+440,2024-11-01,A036,Cálculo II,1.0,100.08,Realizada,2024-11,Sexta,2024Q4
+441,2024-11-08,A036,Cálculo II,2.0,200.15,Realizada,2024-11,Sexta,2024Q4
+442,2024-11-15,A036,Cálculo II,1.0,100.08,Realizada,2024-11,Sexta,2024Q4
+443,2024-11-22,A036,Cálculo II,1.0,100.08,Realizada,2024-11,Sexta,2024Q4
+444,2024-11-29,A036,Cálculo II,1.0,100.08,Realizada,2024-11,Sexta,2024Q4
+445,2024-12-20,A036,Cálculo II,1.0,100.65,Realizada,2024-12,Sexta,2024Q4
+446,2025-01-31,A036,Cálculo II,1.5,151.83,Realizada,2025-01,Sexta,2025Q1
+447,2025-02-07,A036,Cálculo II,2.0,203.57,Realizada,2025-02,Sexta,2025Q1
+448,2025-02-14,A036,Cálculo II,1.0,101.79,Realizada,2025-02,Sexta,2025Q1
+449,2025-02-21,A036,Cálculo II,1.0,101.79,Realizada,2025-02,Sexta,2025Q1
+450,2025-02-28,A036,Cálculo II,2.0,203.57,Realizada,2025-02,Sexta,2025Q1
+451,2025-03-07,A036,Cálculo II,1.0,102.36,Realizada,2025-03,Sexta,2025Q1
+452,2025-03-14,A036,Cálculo II,1.0,102.36,Realizada,2025-03,Sexta,2025Q1
+453,2025-03-21,A036,Cálculo II,1.0,102.36,Realizada,2025-03,Sexta,2025Q1
+454,2025-03-28,A036,Cálculo II,1.0,102.36,Realizada,2025-03,Sexta,2025Q1
+455,2025-04-04,A036,Cálculo II,1.0,102.93,Realizada,2025-04,Sexta,2025Q2
+456,2025-04-11,A036,Cálculo II,2.0,205.85,Realizada,2025-04,Sexta,2025Q2
+457,2025-04-18,A036,Cálculo II,2.0,205.85,Realizada,2025-04,Sexta,2025Q2
+458,2025-04-25,A036,Cálculo II,1.0,102.93,Realizada,2025-04,Sexta,2025Q2
+459,2025-05-02,A036,Cálculo II,1.0,103.5,Realizada,2025-05,Sexta,2025Q2
+460,2025-05-09,A036,Cálculo II,2.0,206.99,Realizada,2025-05,Sexta,2025Q2
+461,2025-05-16,A036,Cálculo II,1.0,103.5,Realizada,2025-05,Sexta,2025Q2
+462,2025-05-30,A036,Cálculo II,2.0,0.0,Falta,2025-05,Sexta,2025Q2
+463,2025-06-06,A036,Cálculo II,2.0,208.13,Realizada,2025-06,Sexta,2025Q2
+464,2025-06-13,A036,Cálculo II,1.5,156.1,Realizada,2025-06,Sexta,2025Q2
+465,2025-06-27,A036,Cálculo II,1.0,104.07,Realizada,2025-06,Sexta,2025Q2
+466,2025-08-01,A036,Cálculo II,1.5,0.0,Falta,2025-08,Sexta,2025Q3
+467,2025-08-08,A036,Cálculo II,1.0,105.2,Realizada,2025-08,Sexta,2025Q3
+468,2025-08-15,A036,Cálculo II,1.0,105.2,Realizada,2025-08,Sexta,2025Q3
+469,2025-08-22,A036,Cálculo II,1.5,157.81,Realizada,2025-08,Sexta,2025Q3
+470,2025-08-29,A036,Cálculo II,2.0,210.41,Realizada,2025-08,Sexta,2025Q3
+471,2025-09-05,A036,Cálculo II,1.0,105.77,Realizada,2025-09,Sexta,2025Q3
+472,2025-09-12,A036,Cálculo II,1.0,105.77,Realizada,2025-09,Sexta,2025Q3
+473,2025-09-19,A036,Cálculo II,2.0,211.55,Realizada,2025-09,Sexta,2025Q3
+474,2025-09-26,A036,Cálculo II,1.0,105.77,Realizada,2025-09,Sexta,2025Q3
+475,2025-10-03,A036,Cálculo II,1.0,106.34,Realizada,2025-10,Sexta,2025Q4
+476,2025-10-10,A036,Cálculo II,2.0,212.69,Realizada,2025-10,Sexta,2025Q4
+477,2025-10-17,A036,Cálculo II,1.5,159.52,Realizada,2025-10,Sexta,2025Q4
+478,2025-10-24,A036,Cálculo II,2.0,212.69,Realizada,2025-10,Sexta,2025Q4
+479,2025-10-31,A036,Cálculo II,2.0,212.69,Realizada,2025-10,Sexta,2025Q4
+480,2025-11-07,A036,Cálculo II,1.5,0.0,Falta,2025-11,Sexta,2025Q4
+481,2025-11-14,A036,Cálculo II,1.5,160.37,Realizada,2025-11,Sexta,2025Q4
+482,2025-11-21,A036,Cálculo II,1.0,0.0,Falta,2025-11,Sexta,2025Q4
+483,2025-11-28,A036,Cálculo II,1.0,106.91,Realizada,2025-11,Sexta,2025Q4
+484,2024-05-25,A037,Álgebra Linear,1.0,77.79,Realizada,2024-05,Sábado,2024Q2
+485,2024-06-01,A037,Álgebra Linear,2.0,156.49,Realizada,2024-06,Sábado,2024Q2
+486,2024-06-08,A037,Álgebra Linear,2.0,156.49,Realizada,2024-06,Sábado,2024Q2
+487,2024-06-15,A037,Álgebra Linear,1.5,117.37,Realizada,2024-06,Sábado,2024Q2
+488,2024-06-22,A037,Álgebra Linear,2.0,156.49,Realizada,2024-06,Sábado,2024Q2
+489,2024-07-13,A037,Álgebra Linear,2.0,157.4,Realizada,2024-07,Sábado,2024Q3
+490,2024-07-20,A037,Álgebra Linear,1.0,0.0,Falta,2024-07,Sábado,2024Q3
+491,2024-08-03,A037,Álgebra Linear,2.0,158.32,Realizada,2024-08,Sábado,2024Q3
+492,2024-08-10,A037,Álgebra Linear,1.0,79.16,Realizada,2024-08,Sábado,2024Q3
+493,2024-08-17,A037,Álgebra Linear,1.0,79.16,Realizada,2024-08,Sábado,2024Q3
+494,2024-08-24,A037,Álgebra Linear,2.0,158.32,Realizada,2024-08,Sábado,2024Q3
+495,2024-08-31,A037,Álgebra Linear,1.0,79.16,Realizada,2024-08,Sábado,2024Q3
+496,2024-09-07,A037,Álgebra Linear,1.0,0.0,Falta,2024-09,Sábado,2024Q3
+497,2024-09-14,A037,Álgebra Linear,2.0,159.24,Realizada,2024-09,Sábado,2024Q3
+498,2024-09-21,A037,Álgebra Linear,1.0,79.62,Realizada,2024-09,Sábado,2024Q3
+499,2024-09-28,A037,Álgebra Linear,2.0,159.24,Realizada,2024-09,Sábado,2024Q3
+500,2024-10-05,A037,Álgebra Linear,2.0,160.16,Realizada,2024-10,Sábado,2024Q4
+501,2024-10-12,A037,Álgebra Linear,2.0,160.16,Realizada,2024-10,Sábado,2024Q4
+502,2024-10-19,A037,Álgebra Linear,1.0,80.08,Realizada,2024-10,Sábado,2024Q4
+503,2024-10-26,A037,Álgebra Linear,1.0,80.08,Realizada,2024-10,Sábado,2024Q4
+504,2024-11-02,A037,Álgebra Linear,1.5,120.8,Realizada,2024-11,Sábado,2024Q4
+505,2024-11-09,A037,Álgebra Linear,1.5,120.8,Realizada,2024-11,Sábado,2024Q4
+506,2024-11-16,A037,Álgebra Linear,1.5,120.8,Realizada,2024-11,Sábado,2024Q4
+507,2024-11-23,A037,Álgebra Linear,1.0,80.54,Realizada,2024-11,Sábado,2024Q4
+508,2024-11-30,A037,Álgebra Linear,2.0,161.07,Realizada,2024-11,Sábado,2024Q4
+509,2025-01-04,A037,Álgebra Linear,1.0,81.45,Realizada,2025-01,Sábado,2025Q1
+510,2025-08-06,A038,Cálculo II,1.0,98.08,Realizada,2025-08,Quarta,2025Q3
+511,2025-08-13,A038,Cálculo II,1.0,98.08,Realizada,2025-08,Quarta,2025Q3
+512,2025-08-20,A038,Cálculo II,1.5,147.12,Realizada,2025-08,Quarta,2025Q3
+513,2025-08-27,A038,Cálculo II,1.0,98.08,Realizada,2025-08,Quarta,2025Q3
+514,2025-09-03,A038,Cálculo II,2.0,197.22,Realizada,2025-09,Quarta,2025Q3
+515,2025-09-10,A038,Cálculo II,1.0,98.61,Realizada,2025-09,Quarta,2025Q3
+516,2025-09-24,A038,Cálculo II,1.0,98.61,Realizada,2025-09,Quarta,2025Q3
+517,2025-10-08,A038,Cálculo II,1.0,99.14,Realizada,2025-10,Quarta,2025Q4
+518,2025-10-15,A038,Cálculo II,2.0,198.28,Realizada,2025-10,Quarta,2025Q4
+519,2025-10-22,A038,Cálculo II,1.0,99.14,Realizada,2025-10,Quarta,2025Q4
+520,2025-10-29,A038,Cálculo II,2.0,198.28,Realizada,2025-10,Quarta,2025Q4
+521,2024-07-15,A039,Estatística,1.0,66.73,Realizada,2024-07,Segunda,2024Q3
+522,2024-07-29,A039,Estatística,1.5,100.1,Realizada,2024-07,Segunda,2024Q3
+523,2024-08-05,A039,Estatística,1.0,67.12,Realizada,2024-08,Segunda,2024Q3
+524,2024-08-26,A039,Estatística,1.5,100.68,Realizada,2024-08,Segunda,2024Q3
+525,2024-09-02,A039,Estatística,1.0,67.51,Realizada,2024-09,Segunda,2024Q3
+526,2024-09-09,A039,Estatística,1.0,67.51,Realizada,2024-09,Segunda,2024Q3
+527,2024-09-16,A039,Estatística,1.0,67.51,Realizada,2024-09,Segunda,2024Q3
+528,2024-09-23,A039,Estatística,1.0,0.0,Cancelada,2024-09,Segunda,2024Q3
+529,2024-09-30,A039,Estatística,1.5,0.0,Falta,2024-09,Segunda,2024Q3
+530,2024-10-07,A039,Estatística,1.0,0.0,Cancelada,2024-10,Segunda,2024Q4
+531,2024-10-14,A039,Estatística,2.0,0.0,Falta,2024-10,Segunda,2024Q4
+532,2024-10-21,A039,Estatística,1.0,67.9,Realizada,2024-10,Segunda,2024Q4
+533,2024-10-28,A039,Estatística,2.0,135.8,Realizada,2024-10,Segunda,2024Q4
+534,2024-11-04,A039,Estatística,1.0,68.29,Realizada,2024-11,Segunda,2024Q4
+535,2024-11-11,A039,Estatística,1.0,68.29,Realizada,2024-11,Segunda,2024Q4
+536,2025-10-06,A040,Cálculo I,1.0,96.52,Realizada,2025-10,Segunda,2025Q4
+537,2025-10-13,A040,Cálculo I,1.0,0.0,Falta,2025-10,Segunda,2025Q4
+538,2025-10-20,A040,Cálculo I,1.0,96.52,Realizada,2025-10,Segunda,2025Q4
+539,2025-10-27,A040,Cálculo I,1.5,144.78,Realizada,2025-10,Segunda,2025Q4
+540,2025-11-03,A040,Cálculo I,1.0,97.04,Realizada,2025-11,Segunda,2025Q4
+541,2025-11-10,A040,Cálculo I,1.0,0.0,Falta,2025-11,Segunda,2025Q4
+542,2025-11-17,A040,Cálculo I,1.0,97.04,Realizada,2025-11,Segunda,2025Q4
+543,2025-11-24,A040,Cálculo I,1.0,97.04,Realizada,2025-11,Segunda,2025Q4
+544,2025-12-22,A040,Cálculo I,1.0,97.56,Realizada,2025-12,Segunda,2025Q4
+545,2025-12-29,A040,Cálculo I,1.0,0.0,Falta,2025-12,Segunda,2025Q4
+546,2025-02-11,A041,Álgebra Linear,1.0,73.1,Realizada,2025-02,Terça,2025Q1
+547,2025-02-18,A041,Álgebra Linear,1.0,73.1,Realizada,2025-02,Terça,2025Q1
+548,2025-02-25,A041,Álgebra Linear,1.0,73.1,Realizada,2025-02,Terça,2025Q1
+549,2025-03-04,A041,Álgebra Linear,2.0,147.02,Realizada,2025-03,Terça,2025Q1
+550,2025-03-11,A041,Álgebra Linear,1.5,110.26,Realizada,2025-03,Terça,2025Q1
+551,2025-03-18,A041,Álgebra Linear,1.0,73.51,Realizada,2025-03,Terça,2025Q1
+552,2025-03-25,A041,Álgebra Linear,2.0,147.02,Realizada,2025-03,Terça,2025Q1
+553,2025-04-01,A041,Álgebra Linear,1.5,0.0,Cancelada,2025-04,Terça,2025Q2
+554,2025-04-08,A041,Álgebra Linear,2.0,147.84,Realizada,2025-04,Terça,2025Q2
+555,2025-04-15,A041,Álgebra Linear,2.0,147.84,Realizada,2025-04,Terça,2025Q2
+556,2025-04-22,A041,Álgebra Linear,1.0,73.92,Realizada,2025-04,Terça,2025Q2
+557,2025-04-29,A041,Álgebra Linear,1.0,73.92,Realizada,2025-04,Terça,2025Q2
+558,2025-05-06,A041,Álgebra Linear,1.5,111.49,Realizada,2025-05,Terça,2025Q2
+559,2025-05-13,A041,Álgebra Linear,1.0,74.33,Realizada,2025-05,Terça,2025Q2
+560,2025-05-20,A041,Álgebra Linear,1.5,111.49,Realizada,2025-05,Terça,2025Q2
+561,2025-05-27,A041,Álgebra Linear,1.0,74.33,Realizada,2025-05,Terça,2025Q2
+562,2025-06-03,A041,Álgebra Linear,1.0,74.74,Realizada,2025-06,Terça,2025Q2
+563,2025-06-10,A041,Álgebra Linear,1.0,74.74,Realizada,2025-06,Terça,2025Q2
+564,2025-06-17,A041,Álgebra Linear,2.0,149.47,Realizada,2025-06,Terça,2025Q2
+565,2025-07-08,A041,Álgebra Linear,1.0,75.15,Realizada,2025-07,Terça,2025Q3
+566,2025-07-22,A041,Álgebra Linear,1.5,112.72,Realizada,2025-07,Terça,2025Q3
+567,2025-08-12,A041,Álgebra Linear,1.5,113.33,Realizada,2025-08,Terça,2025Q3
+568,2025-08-19,A041,Álgebra Linear,2.0,151.11,Realizada,2025-08,Terça,2025Q3
+569,2025-08-26,A041,Álgebra Linear,1.0,75.55,Realizada,2025-08,Terça,2025Q3
+570,2025-09-02,A041,Álgebra Linear,2.0,151.93,Realizada,2025-09,Terça,2025Q3
+571,2025-09-09,A041,Álgebra Linear,1.0,75.96,Realizada,2025-09,Terça,2025Q3
+572,2025-09-16,A041,Álgebra Linear,1.5,113.95,Realizada,2025-09,Terça,2025Q3
+573,2025-09-23,A041,Álgebra Linear,2.0,151.93,Realizada,2025-09,Terça,2025Q3
+574,2025-09-30,A041,Álgebra Linear,1.5,113.95,Realizada,2025-09,Terça,2025Q3
+575,2024-04-01,A042,Estatística,1.0,67.72,Realizada,2024-04,Segunda,2024Q2
+576,2024-04-08,A042,Estatística,2.0,135.45,Realizada,2024-04,Segunda,2024Q2
+577,2024-04-15,A042,Estatística,1.0,67.72,Realizada,2024-04,Segunda,2024Q2
+578,2024-04-22,A042,Estatística,2.0,0.0,Falta,2024-04,Segunda,2024Q2
+579,2024-04-29,A042,Estatística,1.0,67.72,Realizada,2024-04,Segunda,2024Q2
+580,2024-05-06,A042,Estatística,1.5,0.0,Falta,2024-05,Segunda,2024Q2
+581,2024-05-13,A042,Estatística,1.0,68.12,Realizada,2024-05,Segunda,2024Q2
+582,2024-05-20,A042,Estatística,1.0,68.12,Realizada,2024-05,Segunda,2024Q2
