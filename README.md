@@ -64,5 +64,4 @@ python notebooks/analise_exploratoria.py
 
 ## Dashboard
 
-*(inserir aqui os prints do Power BI depois de montado — cartões de KPI,
-receita mensal, receita por matéria, taxa de falta por dia)*
+🚧 Em andamento
