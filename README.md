@@ -64,4 +64,8 @@ python notebooks/analise_exploratoria.py
 
 ## Dashboard
 
-🚧 Em andamento
+ ![Dashboard Financas de Tutoria](dashboard/dashboard_print.png)
+
+Cartões de KPI (receita total, aulas realizadas, taxa de falta, ticket médio,
+retenção média), receita mensal com filtro de período, receita por matéria e
+taxa de falta por dia da semana com destaque visual para segunda-feira.
